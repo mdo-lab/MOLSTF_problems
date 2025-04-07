@@ -11,9 +11,6 @@ See the paper for more details on problem formulation.
 
 ## Installation and Dependencies
 
-The source files are available at 
-  https://mdolab.net/Ray/Research-Data/MOLSFT_problems.zip 
-
 The code is written in Python 3.11.9 and requires the following packages:
 
 numpy
